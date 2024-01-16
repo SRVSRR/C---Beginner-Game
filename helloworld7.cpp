@@ -6,7 +6,7 @@ int main(){
 
     //double x = (int)3.14;
 
-    //char x = 100;
+    //char x = 100;/
 
     int correct = 8;
 
