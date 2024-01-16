@@ -1,3 +1,5 @@
+// Variables and data types
+
 #include <iostream>
 
 int main() {
