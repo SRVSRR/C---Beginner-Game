@@ -1,4 +1,4 @@
-// Class 1: Entry
+// Class 1: Entry //
 
 #include <iostream>
 
