@@ -1,4 +1,4 @@
-// math related stuff
+// math related stuff /
 
 #include <iostream> 
 #include <cmath>

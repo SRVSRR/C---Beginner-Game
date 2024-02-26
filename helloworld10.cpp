@@ -1,4 +1,4 @@
-// Hpyotenuse calculator
+// Hpyotenuse calculator /
 
 #include <iostream>
 
