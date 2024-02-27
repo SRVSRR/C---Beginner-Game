@@ -7,7 +7,7 @@ int main() {
 
     int num;
     int guess;
-    int tries;
+    int tries = 0;
 
     srand(time(NULL));
     num = (rand() % 100) + 1;
