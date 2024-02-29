@@ -20,7 +20,7 @@ int main() {
      std::string lastName = "Nandan";
      std::string fullName = concatStrings(firstName, lastName);
 
-     std::cout << "I am " << fullName;
+     std::cout << "I am  " << fullName;
 
 
     return 0;
