@@ -45,6 +45,9 @@ void showBalance(double balance){
 }
 
 double deposit(){
+    double amount = 0;
+    cout << "Enter deposit amount: \n";
+    cin >> amount;
     
     return 0 ;
 }
