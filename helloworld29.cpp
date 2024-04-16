@@ -1,4 +1,4 @@
-//Banking practice program
+// Banking practice program //
 
 #include <iostream>
 #include <iomanip>
@@ -54,3 +54,4 @@ double deposit(){
 double withdraw(double balance){
     return 0 ;
 }
+
