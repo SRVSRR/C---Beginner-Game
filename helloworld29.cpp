@@ -1,4 +1,5 @@
-//Banking practice program
+// Banking practice program //
+
 
 #include <iostream>
 #include <iomanip>
@@ -80,3 +81,4 @@ double withdraw(double balance){
     }
   
 }
+
