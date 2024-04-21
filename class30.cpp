@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-int mainO() {
+int main() {
 
     std::string name;
 
